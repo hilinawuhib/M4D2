@@ -13,7 +13,7 @@ const LatestReleases = () => {
               <Card.Body>
                 <Card.Title>{book.title}</Card.Title>
                 <h5>{book.category}</h5>
-                <h5>{book.price}</h5>
+                <h5>{book.price}$</h5>
               </Card.Body>
             </Card>
           </div>

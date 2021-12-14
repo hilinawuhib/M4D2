@@ -52,7 +52,7 @@ body {
   }
 }
 .book-cover {
-  height:540px;
+  height:550px;
   width:250px;
   display:inline-block;
   margin: 0 auto;
@@ -66,4 +66,5 @@ body {
   height: 400px;
   color: black !important;
   background-color: white !important;
+  text-align: left;
 }
