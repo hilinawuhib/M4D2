@@ -1,3 +1,13 @@
+*{
+  font-family: 'Cedarville Cursive', cursive;
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Jost', sans-serif;
+  font-family: 'MedievalSharp', cursive;
+  font-family: 'Outfit', sans-serif;
+  font-family: 'Rubik', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+}
+
 body{
   background-color: #282c34;
   color: white;
@@ -46,9 +56,10 @@ body{
 .book-cover{
   height: 550px;
   width:250px;
-  flex-direction: column;
   display:inline-block;
   margin: 0 auto;
+  
+
 }
 .card-image{
   height:350px
@@ -59,7 +70,4 @@ body{
   color: black !important;
   background-color: white!important;
   
-}
-.bookwrap{
-display: inline-block;
 }
